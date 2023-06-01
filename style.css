@@ -24,7 +24,9 @@
     list-style: none;
 
 }
-
+.btn{
+    display:none
+}
 .nav li {
     padding: 20px;
     font-weight: 500;
@@ -110,7 +112,7 @@
     border-radius: 30px;
     display: flex;
     justify-content: center;
-    margin-left: 600px;
+    margin: auto;
 }
 .btn{
     display:none
