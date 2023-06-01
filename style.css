@@ -24,9 +24,7 @@
     list-style: none;
 
 }
-.btn{
-    display:none
-}
+
 .nav li {
     padding: 20px;
     font-weight: 500;
@@ -112,7 +110,7 @@
     border-radius: 30px;
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin:auto;
 }
 .btn{
     display:none
@@ -120,7 +118,7 @@
 
 @media (max-width:540px) {
     .menu {
-        display: block;
+        display:block ;
         position: fixed;
         width: 65%;
         left: -100%;
