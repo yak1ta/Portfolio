@@ -128,7 +128,7 @@
         box-shadow: 0px 5px 5px black;
     }
 .btn{
-    display:block;
+    display:block !important;
 }
     .open{
         left: 0;
